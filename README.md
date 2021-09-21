@@ -16,3 +16,5 @@ Limitations:
 2. Data just included 33 users, which is not sufficient to reflect the whole population of target customers.
 ### Data selection
 dailyActivity_merged.csv, which is a combined data including the following information: total steps, active distance, active minutes and calories. 
+### Data processing and analysis
+Link: https://github.com/yang19n/Case-Study-Fitness-Tracker-Usage/blob/main/case_study_fitness_tracker_usage.ipynb
