@@ -8,5 +8,11 @@ Bellabeat, a tech-driven wellness company for women, launched a project focus on
 3. Understand how could these trends help influence Bellabeat marketing strategy
 ### Tools
 Python(pandas, numpy, statsmodels, datetime, matplotlib, seaborn)
-### Dataset
+### Dataset description
 The dataset is available by Möbius on kaggle (https://www.kaggle.com/arashnic/fitbit)
+
+Limitations:
+1. Data was collected in 2016, which is outdated for upcoming new product in 2021.
+2. Data just included 33 users, which is not sufficient to reflect the whole population of target customers.
+### Data selection
+dailyActivity_merged.csv, which is a combined data including the following information: total steps, active distance, active minutes and calories. 
